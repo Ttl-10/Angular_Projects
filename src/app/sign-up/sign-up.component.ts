@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./sign-up.component.css']
 })
 export class SignUpComponent implements OnInit {
-  email="ab@cd.ef";
+  email="tantely.tnr@gmail.com";
   constructor() { }
 
   ngOnInit() {
